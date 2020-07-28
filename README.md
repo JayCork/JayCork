@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋
 
 <!--
 **JayCork/JayCork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Jay Cork
+Jay Cork is a human not a repositry of code, unless you subscribe to some theories about our universe. In which case I am a repository of code *Hello World!*
